@@ -1,0 +1,87 @@
+[
+    {
+        "question": "En qué fecha se celebra la Navidad?",
+        "answers": [
+            {
+                "answer": "25 de diciembre",
+                "result": "A"
+            },
+            {
+                "answer": "24 de diciembre",
+                "result": "B"
+            },
+            {
+                "answer": "31 de diciembre",
+                "result": "C"
+            }
+        ]
+    },
+    {
+        "question": "Cómo se llaman los ayudantes de Papá Noel?",
+        "answers": [
+            {
+                "answer": "Duendes",
+                "result": "A"
+            },
+            {
+                "answer": "Elfos",
+                "result": "B"
+            },
+            {
+                "answer": "Gnomos",
+                "result": "C"
+            }
+        ]
+    },
+    {
+        "question": "Cómo se llama el reno de la nariz roja?",
+        "answers": [
+            {
+                "answer": "Rudolph",
+                "result": "A"
+            },
+            {
+                "answer": "Rudolf",
+                "result": "B"
+            },
+            {
+                "answer": "Rudolfo",
+                "result": "C"
+            }
+        ]
+    },
+    {
+        "question": "Qué trae Papá Noel?",
+        "answers": [
+            {
+                "answer": "Regalos",
+                "result": "A"
+            },
+            {
+                "answer": "Carbón",
+                "result": "B"
+            },
+            {
+                "answer": "Dinero",
+                "result": "C"
+            }
+        ]
+    },
+    {
+        "question": "Qué es un muérdago?",
+        "answers": [
+            {
+                "answer": "Una planta",
+                "result": "A"
+            },
+            {
+                "answer": "Un animal",
+                "result": "B"
+            },
+            {
+                "answer": "Un hongo",
+                "result": "C"
+            }
+        ]
+    }
+]
